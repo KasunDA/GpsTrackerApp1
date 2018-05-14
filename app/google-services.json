@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104055098759",
+    "firebase_url": "https://gps-family-ce88b.firebaseio.com",
+    "project_id": "gps-family-ce88b",
+    "storage_bucket": "gps-family-ce88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104055098759:android:8f1c749762b11842",
+        "android_client_info": {
+          "package_name": "com.example.admin.gpstrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104055098759-pg8aqcqlfef6vtf1gqflqpk6u578ul72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4S_oz6czfu5n9l9KN1I2CJO01ObqE6aY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
